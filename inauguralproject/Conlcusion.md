@@ -1,1 +1,1 @@
-
+In this assignment we have found the optimal consumption and labor supply given certain parameter values, tax levels and wages, including the fact that both consumption and labour supply is increasing in the level of wages. In regards to the tax revenue we find that it is decreasing in the Frisch elasticity of labour supply since the revenue is larger in (4) than (3). In (5) we find that is is possible for the politician to increase the lower tax rate substantially, while the upper taxrate should be decreased in order to maximize the tax revenue. 
