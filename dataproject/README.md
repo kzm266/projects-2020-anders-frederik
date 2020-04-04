@@ -1,5 +1,4 @@
 # Data analysis project
-##Group: Anders&Frederik
 
 Our project is titled **The real number of Corona cases in Denmark** and is about trying to estimate the "dark" number or underreported cases of Corona Virus in Denmark. We first give an overview of the sitaution in Denmark; graphing the Corona cases, deaths, recovered, death rate and recovered rate, then, we use a simple exponential growth model to estimate the underreported number of Corona cases in Denmark.
 
